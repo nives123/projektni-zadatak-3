@@ -6,7 +6,10 @@ p {
 	line-height: 18px;
 }
 
-h1,h2{
+h1{
+			font-family: NivesOrehovec;
+		}
+h2{
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 	color: brown;
 }
